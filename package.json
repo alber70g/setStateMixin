@@ -1,0 +1,21 @@
+{
+  "name": "setstate-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./examples/test-app/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@polymer/lit-element": "^0.5.2",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^2.9.2"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}
