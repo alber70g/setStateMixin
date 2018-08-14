@@ -3,7 +3,7 @@ SetState using a reducer instead of directly. React-like setState function
 
 ## Usage
 
-Basically any class can use this mixin. Have a look at [examples/test-app/app.ts](examples/test-app/app.ts).
+Basically any class can use this mixin. Have a look at [examples/test-app/app.ts](examples/test-app/app.ts#L4).
 
 ## Caution
 
